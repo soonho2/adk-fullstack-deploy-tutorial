@@ -195,7 +195,6 @@ test-results.xml
 
 # Application specific
 app/.env
-nextjs/.env*
 
 # Project specific directories
 ai_docs/
